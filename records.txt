@@ -1,0 +1,2 @@
+Paul, chocolat, 30, London, married, 1,
+Marie-Astrid, haribo, 12, Bristol, married, 2,

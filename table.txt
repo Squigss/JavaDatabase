@@ -1,0 +1,12 @@
+TABLE_NAME, testTable2,
+NAME, float AGE, LOC
+Steph,24,Bristol,
+Steph,22,London,
+Paul,30,Devon,
+Jane,30,Devon,
+Sam,22,Devon,
+Steph,22,London,
+Paul,30,Devon,
+Jane,30,Devon,
+Sam,22,Devon,
+END_TABLE,

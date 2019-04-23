@@ -1,0 +1,16 @@
+TABLE_NAME, test2,
+name,float age,location,
+Steph,22,London,
+Jane Austin,110,Paris,
+Paul,30,Devon,
+Sam,22,Devon,
+END_TABLE,
+TABLE_NAME, test1,
+sweet preferences,float age,
+chocolat,30,
+haribo,12,
+chocolat,30,
+haribo,12,
+END_TABLE,
+
+
